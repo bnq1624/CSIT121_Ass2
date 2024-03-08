@@ -1,0 +1,24 @@
+1001, Computation, Microsoft, 8, 25000.000000
+800, Mary, 03/10/2000, 26 Gibsons Road Figtree NSW 2525, F, 50.000000, 700, 9, Java Python SQL
+10
+1001, Computation, Microsoft, 8, 25000.000000
+510, Anna, 20/11/1990, 200 Cemetary Road Hawea NSW 2800, F, 100.000000, 500, 8, Python SQL
+15
+1002, Study methods, Education committee, 3, 15000.000000
+700, Zhi, 12/09/1999, 112 Smith Street Windang NSW 2525, M, 80.200000, 600, 9, C++ Java Python
+20
+1003, Racing car, Cloud Pty Ltd, 3, 225000.000000
+800, Mary, 03/10/2000, 26 Gibsons Road Figtree NSW 2525, F, 50.000000, 700, 9, Java Python SQL
+15
+1003, Racing car, Cloud Pty Ltd, 3, 225000.000000
+540, Claudio, 20/11/1990, 23 Horsley Street Unanderra NSW 2528, M, 50.000000, 510, 8, Java C Python SQL
+10
+1004, Football, Football Club, 5, 35000.000000
+350, Brian, 13/05/1965, 23 Station Street Wollongong NSW 2500, M, 200.400000, 0, 7, Shell Java Python
+10
+1005, Swimming, Education Committee, 5, 125000.000000
+350, Brian, 13/05/1965, 23 Station Street Wollongong NSW 2500, M, 200.400000, 0, 7, Shell Java Python
+10
+1004, Football, Football Club, 5, 35000.000000
+120, Alice Smith, 10/02/2000, 1 Northfields ave Wollongong NSW 2500, F, 520.300000, 110, 3, C++ Java SQL Lisp
+20
